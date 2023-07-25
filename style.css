@@ -4,7 +4,7 @@ body{
 }
 
 #header{
-    background-image: url('images/Coffeehouse+background.jpeg');
+    background-image: url('../images/Coffeehouse+background.jpeg');
     min-height: 400px;
 
     color: white;
@@ -80,13 +80,13 @@ body{
 }
 
 .coffee{
-    background-image: url('images/img-locations-background.jpeg');
+    background-image: url('../images/img-locations-background.jpeg');
 }
 
 .smoothie{
-    background-image: url('images/Pretty-in-Pink-Peach-Smoothie-6.jpeg');
+    background-image: url('../images/Pretty-in-Pink-Peach-Smoothie-6.jpeg');
 }
 
 .bakery{
-    background-image: url('../theCoffeeShopProject/images/img-donut.jpeg');
+    background-image: url('../images/img-donut.jpeg');
 }
